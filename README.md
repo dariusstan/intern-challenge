@@ -1,5 +1,4 @@
-* Yet Another Vulnerable Server
-- Yet another vulnerable webserver (to learn XSS/SQLi/ injection).
+# Another Vulnerable Server (for internship coding challenge).
 - Written using Python3, flask, and sqlite3 library
 - Relatively small code base should allow you to understand what is going on, and possibly fix vulnerabilities
 - *Hints*: 
